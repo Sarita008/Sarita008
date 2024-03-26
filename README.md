@@ -3,14 +3,18 @@
 <h3 align="center">A passionate Software Developer</h3>
 <img align ="right" alt ="coding" width="400px" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
-- 🔗All of my projects are available at [https://portfolio-rosy-phi-68.vercel.app/](https://portfolio-rosy-phi-68.vercel.app/)
+
+- 📖 I’m currently learning Full Stack Web Development.
+
 - ❓Feel free to ask any questions related to MERN stack and related technologies.
+ 
+- 🔗All of my projects are available at [https://portfolio-rosy-phi-68.vercel.app/](https://portfolio-rosy-phi-68.vercel.app/)
 
 - 📬How to reach me **saritasharma8201@gmail.com**
 
-- 📙Check my Resume [https://drive.google.com/file/d/1anNxIVBP3qytsCoGicZ5fh9tdytgpuVf/view](https://drive.google.com/file/d/1anNxIVBP3qytsCoGicZ5fh9tdytgpuVf/view)
-
-- ⚡Fun Fact **My favorite game is "Guess the Browser Bug."**
+- 📙Check my <a href= "https://drive.google.com/file/d/1anNxIVBP3qytsCoGicZ5fh9tdytgpuVf/view" > Resume </a>
+ 
+- ⚡Fun Fact : **My favorite game is "Guess the Browser Bug."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

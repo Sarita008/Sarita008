@@ -12,7 +12,7 @@
 
 - 📬How to reach me **saritasharma8201@gmail.com**
 
-- 📙Check my <a href= "https://drive.google.com/file/d/1anNxIVBP3qytsCoGicZ5fh9tdytgpuVf/view" > Resume </a>
+- 📙Check my <a href= "https://drive.google.com/file/d/1FYWZMbhdGY5cptJ57wBBAagOkgpyKipm/view?usp=sharing" > Resume </a>
  
 - ⚡Fun Fact : **My favorite game is "Guess the Browser Bug."**
 

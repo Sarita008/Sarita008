@@ -5,7 +5,7 @@
 
 
 -  SDE Intern @Outthinc Global Communications
-- 📖 I’m currently learning Full Stack Web Development.
+- 📖 I’m currently learning DSA.
 
 - ❓Feel free to ask any questions related to MERN stack and related technologies.
  

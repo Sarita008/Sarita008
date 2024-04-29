@@ -4,6 +4,7 @@
 <img align ="right" alt ="coding" width="400px" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
 
+-  SDE Intern @Outthinc Global Communications
 - 📖 I’m currently learning Full Stack Web Development.
 
 - ❓Feel free to ask any questions related to MERN stack and related technologies.

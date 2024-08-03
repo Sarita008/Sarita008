@@ -9,7 +9,7 @@
 
 - ❓Feel free to ask any questions related to MERN stack and related technologies.
  
-- 🔗All of my projects are available at [https://portfolio-rosy-phi-68.vercel.app/](https://portfolio-rosy-phi-68.vercel.app/)
+- 🔗All of my projects are available at [https://sarita-portfolio-eight.vercel.app/](https://sarita-portfolio-eight.vercel.app/)
 
 - 📬How to reach me **saritasharma8201@gmail.com**
 
